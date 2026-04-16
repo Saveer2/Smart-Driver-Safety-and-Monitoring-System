@@ -31,5 +31,5 @@ Visual overlays and alerts
 Parameter display (EAR & MAR)
 
 ## Technologies Used
-Programming Language: Python
+Programming Language: Python </br>
 Libraries: OpenCV, dlib, NumPy, TensorFlow / Keras, Matplotlib, pyttsx3
