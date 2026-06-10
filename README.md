@@ -33,3 +33,5 @@ It uses:
 ## Technologies Used
 Programming Language: Python </br>
 Libraries: OpenCV, dlib, NumPy, TensorFlow / Keras, Matplotlib, pyttsx3
+
+## THIS IS A GROUP PROJECT
