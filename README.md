@@ -10,7 +10,6 @@ It uses:
 
 1. Facial analysis for drowsiness detection
 2. Image processing for lane detection
-3. Deep learning (CNN) for traffic sign recognition
 
 ## Features
 1. Drowsiness Detection </br>
