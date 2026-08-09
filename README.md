@@ -1,6 +1,6 @@
 # Smart Driver Safety and Monitoring System
 
-An intelligent driver assistance system that enhances road safety by combining drowsiness detection, lane detection, and traffic sign recognition using computer vision.
+An intelligent driver assistance system that enhances road safety by combining drowsiness detection, lane detection using computer vision.
 
 ## Overview
 
@@ -21,17 +21,13 @@ It uses:
 * Detects road lane boundaries using Canny Edge Detection</br>
 * Uses Hough Transform for line detection</br>
 * Displays lane overlays on video</br>
-3. Traffic Sign Recognition</br>
-* Classifies traffic signs using CNN model</br>
-* Supports 43 different traffic sign classes</br>
-* Displays prediction with confidence score</br>
-4. Real-Time GUI</br>
+3. Real-Time GUI</br>
 * Live camera feed</br>
 * Visual overlays and alerts</br>
 * Parameter display (EAR & MAR)</br>
 
 ## Technologies Used
 Programming Language: Python </br>
-Libraries: OpenCV, dlib, NumPy, TensorFlow / Keras, Matplotlib, pyttsx3
+Libraries: OpenCV, dlib, NumPy, Matplotlib, pyttsx3
 
 ## THIS IS A GROUP PROJECT
